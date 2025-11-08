@@ -72,7 +72,7 @@ export default function MainCard() {
                   src={card.image}
                   alt={card.title}
                   fill
-                  className="object-cover"
+                  className="object-fill"
                 />
               </CardContent>
             </Card>
